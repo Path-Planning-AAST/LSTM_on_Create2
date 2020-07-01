@@ -24,13 +24,3 @@ Build instructions:
     rm -r build (I usually upload already built versions, so you have to delete everthing of the existing build)
 
     catkin_make
-
-
-
-If you have suggestions or comments, please feel free to contact me.
-<<<<<<< HEAD
-123
-=======
-
-test
->>>>>>> 02d07cc95fbe996012924c8e78ddaa109d0e2509
